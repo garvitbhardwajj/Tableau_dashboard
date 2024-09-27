@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/263df471-f4ac-4621-bcd2-b4fe8aadc528)
+
+
+
 # Overview
 
 In a manufacturing landscape where efficiency, cost management, and employee performance are intricately linked, your analytical expertise is essential. I have two datasets: 'Manufacturing Production Data' and 'Employee Performance Metrics'. The 'Manufacturing Production Data' dataset encapsulates detailed information about various products, including production dates, costs, quantities, and warehouse locations. The 'Employee Performance Metrics' dataset offers insights into the workforce, covering departments, salaries, performance ratings, and countries of operation.My challenge is to explore these datasets to identify trends and insights that could streamline manufacturing processes, optimize resource allocation, and enhance employee productivity.
