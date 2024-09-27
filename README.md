@@ -1,4 +1,4 @@
-![image|700](https://github.com/user-attachments/assets/263df471-f4ac-4621-bcd2-b4fe8aadc528)
+<img src="https://github.com/user-attachments/assets/263df471-f4ac-4621-bcd2-b4fe8aadc528" alt="image" width="500"/>
 
 
 
