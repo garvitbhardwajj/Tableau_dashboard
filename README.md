@@ -12,7 +12,7 @@ My mission is to utilize Tableau's robust capabilities to craft a compelling nar
 ## Link for Dashboard
 Explore the dashboard at this link below to dive deeper into the data and uncover more opportunities for enhancing manufacturing efficiency.
 
-Link:- https://public.tableau.com/app/profile/yash.kumar3191/viz/EnhanceManufacturingEfficiency/Home
+Link:- https://public.tableau.com/views/Enhancemanufacturingefficency/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Conclusion
 In this comprehensive analysis, we leveraged Tableau's powerful data visualization and analysis capabilities to delve into the 'Manufacturing Production Data' and 'Employee Performance Metrics' datasets. Our primary objective was to uncover trends and insights that could streamline manufacturing processes, optimize resource allocation, and enhance employee productivity.
